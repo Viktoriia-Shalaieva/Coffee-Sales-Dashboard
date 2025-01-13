@@ -37,6 +37,9 @@ The dashboard is created using:
 ## Conclusion
 This dashboard serves as a powerful tool for analyzing coffee sales trends, understanding customer preferences, and making data-driven decisions to optimize sales strategies. The insights can help businesses maximize revenue and improve operational efficiency.
 
+## Video Presentation
+[Watch the Video Presentation](https://drive.google.com/file/d/16u4Csccx65yKW8lnUa-NayOvcAOGVOsn/view?usp=sharing)
+
 ## Screenshots
 ### Dashboard Overview
 ![Dashboard Overview](1_dashboard_overview.png)
